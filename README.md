@@ -5,7 +5,7 @@ Project aims to predict diabetes outcomes using the Pima Diabetes Database, empl
    
    Key questions:
    - Can we predict whether a patient has diabetes based on their health metrics?
-   - Which health points o measure are the most telling in predicting diabetes?
+   - Which health points of measure are the most telling in predicting diabetes?
    - How reliable are the predictions?
 
 ### Dataset 
