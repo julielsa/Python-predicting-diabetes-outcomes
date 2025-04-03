@@ -9,7 +9,7 @@ Project aims to predict diabetes outcomes using the Pima Diabetes Database, empl
    - How reliable are the predictions?
 
 ### Dataset 
-Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data). The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and it represents the information of 21 year old females of Pima heritage. The variables presented are their insulin level, BMI, age, blood pressure, pregnancies, and a target variable, outcome. 
+Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data). The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and it represents the information of 21 year old females of Pima heritage. The variables presented are their insulin level, BMI, age, blood pressure, pregnancies, skin thickness and a target variable, outcome. 
 
 ### Analysis
 1. Data Cleaning and Processing
@@ -25,7 +25,7 @@ Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/d
      ![histogram.png](https://github.com/julielsa/Python-predicting-diabetes-outcomes/blob/main/histogram.png)
 
      Key takeaways:
-     - The binary classification creates a clear baseline for model evaluation, however, it also does oversimplify the disease.
+     - The binary classification creates a clear baseline for model evaluation, however, it also does oversimplify the disease (i.e.- you either have it or your don't is an over simpflication).
      - There are more people without diabetes than with it in this dataset, which is expected in a general population sample.
      - It is important to note that this uneven distribution means our model evalution should ensure not to be biased toward the more common outcome.
    - Corrolation Heatmap:
@@ -37,7 +37,13 @@ Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/d
      - Blood pressure less important: Based on my common knowledge, I initially thought that I would find high blood pressure to be a big warning sign for diabetes, but the data shows it's not as reliable an indicator as weight or blood sugar levels.
          
 4. Modeling & Model Evaluation
-   - 
+   Actions taken:
+   - Split data
+   - Train models
+   - Test and evaluate models
+  
+   Key takeaway:
+   - After comparing models, SVM emerged as the best performer on predictability while limiting false positives.
    
-### Insights & Conclusion
-
+### Conclusion
+The project successfully achieved its goal of predicting diabetes outcomes using health metrics. Through systematic comparison of multiple models and thorough evaluation, SVM emerged as the top performer, showing strong predictive capability while maintaining an effective balance between sensitivity and specificity.
