@@ -25,9 +25,7 @@ Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/d
         - 
    - Corrolation Heatmap:
          
-4. Modeling
-   
-5. Model Evaluation
+4. Modeling & Model Evaluation
    
 ### Insights & Conclusion
 
