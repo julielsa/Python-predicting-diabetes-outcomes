@@ -21,12 +21,13 @@ Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/d
    - Check for outliers
    
 3. Exploratory Data Analysis
-   - Histogram for glucose Distribution:
+   - Histogram for Glucose Distribution:
+     - 
    - Corrolation Heatmap:
          
 4. Modeling
    
-5. Model evaluation
+5. Model Evaluation
    
 ### Insights & Conclusion
 
