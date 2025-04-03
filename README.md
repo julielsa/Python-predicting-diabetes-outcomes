@@ -15,14 +15,14 @@ Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/d
 1. Data Cleaning and Processing
 
    After downloading the dataset, below are the steps taken:
-       - Replace missing values- This dataset also has '0' values under metrics like BMI that are not typical biologically.
-       - Handling missing values- Using mean/median imputation will allow for missing values to be replaced with estimates.
-       - Feature scaling- Ensuring all features contribute equally to the model.
-       - Check for outliers
+   - Replace missing values- This dataset also has '0' values under metrics like BMI that are not typical biologically.
+   - Handling missing values- Using mean/median imputation will allow for missing values to be replaced with estimates.
+   - Feature scaling- Ensuring all features contribute equally to the model.
+   - Check for outliers
    
 3. Exploratory Data Analysis
-       - Histogram for glucose Distribution:
-       - Corrolation Heatmap:
+   - Histogram for glucose Distribution:
+   - Corrolation Heatmap:
          
 4. Modeling
    
