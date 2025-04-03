@@ -25,8 +25,10 @@ Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/d
      ![histogram.png](https://github.com/julielsa/Python-predicting-diabetes-outcomes/blob/main/histogram.png)
      
    - Corrolation Heatmap:
+     ![heatmap.png](https://github.com/julielsa/Python-predicting-diabetes-outcomes/blob/main/heatmap.png)
          
 4. Modeling & Model Evaluation
+   - 
    
 ### Insights & Conclusion
 
