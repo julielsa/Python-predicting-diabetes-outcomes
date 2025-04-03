@@ -4,9 +4,9 @@
 Project aims to predict diabetes outcomes using the Pima Diabetes Database, employing Python for data preprocessing, modeling, and for exploratory data analysis and visualization. Key steps include data cleaning, feature scaling, model training, and evaluation using metrics like accuracy and AUC.
    
    Key questions:
-      - Can we predict whether a patient has diabetes based on their health metrics?
-      - Which health points o measure are the most telling in predicting diabetes?
-      - How reliable are the predictions?
+   - Can we predict whether a patient has diabetes based on their health metrics?
+   - Which health points o measure are the most telling in predicting diabetes?
+   - How reliable are the predictions?
 
 ### Dataset 
 Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data). The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and it represents the information of 21 year old females of Pima heritage. The variables presented are their insulin level, BMI, age, blood pressure, pregnancies, and a target variable, outcome. 
