@@ -33,7 +33,7 @@ Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/d
 
      Key takeaways:
      - Glucose has the strongest corrolation: The data shows glucose levels have the strongest correlation with diabetes risk. 
-     - Weight and age matter: Like most people know, being overweight and getting older tend to increase your chances of diabetes. This matches what the data shows us and helps explain why our model found these factors important.
+     - Weight and age matter: Like most people know, being overweight and getting older tend to increase your chances of diabetes. This matches what the data shows us.
      - Blood pressure less important: Based on my common knowledge, I initially thought that I would find high blood pressure to be a big warning sign for diabetes, but the data shows it's not as reliable an indicator as weight or blood sugar levels.
          
 4. Modeling & Model Evaluation
