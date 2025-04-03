@@ -22,7 +22,7 @@ Leveraged the Kaggle ['Pima Indians Diabetes Database'](https://www.kaggle.com/d
    
 3. Exploratory Data Analysis
    - Histogram for Glucose Distribution:
-     (histogram.png)
+     [](histogram.png)
      
    - Corrolation Heatmap:
          
